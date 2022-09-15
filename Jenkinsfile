@@ -8,7 +8,7 @@
 // Copyright (C) 2021 NotSoSecure
 //
 // Email:   contact@notsosecure.com
-// Twitter: @notsosecure
+// Twitter: @notsosecure ..
 //
 // This file is part of DevSecOps Training.
 
